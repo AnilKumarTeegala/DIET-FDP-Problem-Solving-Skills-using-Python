@@ -1,0 +1,4 @@
+name      python    c    java total
+ayyappa     90     70     60  220
+lakshmi     70     60     30 160
+ram         90     90     80 260
